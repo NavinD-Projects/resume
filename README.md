@@ -1,4 +1,3 @@
-https://github.com/user-attachments/assets/f6159e31-2e58-467d-93ec-154a31bf8850
 # Navin D - Personal Portfolio v2
 
 Welcome to the repository for my personal developer portfolio! This portfolio showcases my work as a Full Stack Developer, highlighting my projects, skills, experience, and certifications.
@@ -24,5 +23,6 @@ Welcome to the repository for my personal developer portfolio! This portfolio sh
 - **Instagram:** [@navinn_66](https://www.instagram.com/navinn_66/)
 - **Email:** navindcse@gmail.com
 
+https://github.com/user-attachments/assets/1070c3aa-e568-4734-9bf1-9f4c7310b0fe
 
 
