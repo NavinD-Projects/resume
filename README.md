@@ -23,6 +23,5 @@ Welcome to the repository for my personal developer portfolio! This portfolio sh
 - **Instagram:** [@navinn_66](https://www.instagram.com/navinn_66/)
 - **Email:** navindcse@gmail.com
 
-https://github.com/user-attachments/assets/1070c3aa-e568-4734-9bf1-9f4c7310b0fe
-
+https://github.com/user-attachments/assets/32ea90b6-6966-44de-8f39-586be6e662a2
 
